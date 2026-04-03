@@ -5,10 +5,11 @@ body {
   align-items: center;
   margin: 0;
   font-family: "Courier New", Courier, monospace;
+  background-color: #1a1a1a;
 }
 
 .password-container {
-  background-color: pink;
+  background-color: yellow;
   width: 500px;
   padding: 20px;
   border-radius: 10px;
